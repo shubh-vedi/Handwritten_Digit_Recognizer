@@ -1,14 +1,6 @@
 
----
-title: MNIST Digit Recognizer Project
-emoji: 🏃
-colorFrom: pink
-colorTo: purple
-sdk: gradio
-sdk_version: 3.14.0
-app_file: app.py
-pinned: false
-license: apache-2.0
----
+# Handwritten Digit Recognizer Using Deep Learning
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+'''
+The MNIST dataset for handwritten digit recognition application implementation. I'm using a special kind of deep neural network called a convolutional neural network to accomplish this And We are developing a (GUI) to quickly predict numbers.
+'''
